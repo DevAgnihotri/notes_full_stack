@@ -1,8 +1,4 @@
-
-
 # ⭐ **(1) React Fundamentals**
-
----
 
 ## **1.1 What is React?**
 
